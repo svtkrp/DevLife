@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_random"
+        android:icon="@drawable/ic_random"
+        android:title="@string/title_random" />
+
+    <item
+        android:id="@+id/navigation_latest"
+        android:icon="@drawable/ic_clock"
+        android:title="@string/title_latest" />
+
+    <item
+        android:id="@+id/navigation_top"
+        android:icon="@drawable/ic_star"
+        android:title="@string/title_top" />
+
+</menu>
